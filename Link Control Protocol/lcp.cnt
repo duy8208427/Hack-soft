@@ -1,0 +1,27 @@
+:BASE lcp.hlp
+:TITLE LCP
+1 Overview=Scribble10
+1 Introduction
+2 Versions history=Scribble20
+2 Comparative description=Scribble30
+2 Theory and practice of password auditing and recovery in Windows NT/2000/XP/2003=Scribble40
+2 Links=Scribble50
+2 Thanks=Scribble60
+1 Using LCP
+2 Main window=Scribble70
+2 Import from local computer=Scribble80
+2 Import from remote computer=Scribble90
+2 Import from SAM file=Scribble100
+2 Dictionary attack options=Scribble110
+2 Hybrid attack options=Scribble120
+2 Brute force attack options=Scribble130
+2 Other options=Scribble140
+2 Key sequences=Scribble150
+2 Dictionary files=Scribble160
+2 Vowels=Scribble170
+2 Transliteration table=Scribble180
+2 Keyboard layout=Scribble190
+2 Password characters and password characters case=Scribble200
+2 Sessions distribution=Scribble210
+2 Sessions combining=Scribble220
+2 Hashes computing=Scribble230

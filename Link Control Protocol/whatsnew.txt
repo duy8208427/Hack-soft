@@ -1,0 +1,72 @@
+LCP 5.04 (December 17, 2004)
+
+Password auditing and recovery tool for Windows NT/2000/XP/2003
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[+] New
+[-] Fixed error
+[*] Changes
+
+
+Version 5.04 - December 17, 2004
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[+] Support of additional encryption of accounts by SYSKEY at import from
+    registry and import from SAM file;
+[+] Import from LC5 session files;
+[+] English version of the program.
+
+
+
+Version 4.02 - May 27, 2003
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[-] Corrected account information import and hybrid attack.
+
+
+
+Version 4.01 - April 14, 2003
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[*] Changed dictionary attack parameters.
+
+
+
+Version 4.00 - February 24, 2003
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[+] Possibility to dump passwords using pwdump2 method with Active Directory
+    support;
+[+] Possibility to dump passwords using pwdump3/pwdump3e method;
+[+] Import from LC3/LC4 session files;
+[+] Possibility to recover passwords on NT hashes and NT challenge/response
+    pairs;
+[+] More parameters for dictionary, hybrid and brute force attacks;
+[*] Improved sessions distribution for brute force attack;
+[+] Possibility to export audit results to text file and write found passwords
+    to dictionary file;
+[*] Increased password recovery speed;
+[*] Program interface changes.
+
+
+
+Version 2.521 - June 18, 2000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[+] Possibility to import from SAM file;
+[*] Changed Sniff files interpretation;
+[+] More universal creation of passwords dump by pwdump method;
+[+] More parameters for dictionary and brute force attack;
+[*] Changed file format of intermediate results.
+
+
+
+Version 2.520 - October 24, 1999
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[*] Improved program interface;
+[+] Possibility to dump passwords using pwdump and pwdump2 methods;
+[+] More parameters for dictionary attack;
+[+] Possibility of hybrid attack;
+[+] Operating system locale support while dumping and recovering passwords;
+[+] Web page of the program in Internet.
+
+
+
+Version 2.020 - September 10, 1998
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[+] First release.

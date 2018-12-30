@@ -1,0 +1,22 @@
+LCP 5.04
+
+Password auditing and recovery tool for Windows NT/2000/XP/2003
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Accounts information import:
+  - import from local computer;
+  - import from remote computer;
+  - import from SAM file;
+  - import from .LC file;
+  - import from .LCS file;
+  - import from PwDump file;
+  - import from Sniff file;
+- Passwords recovery:
+  - dictionary attack;
+  - hybrid of dictionary and brute force attacks;
+  - brute force attack;
+- Brute force session distribution:
+  - sessions distribution;
+  - sessions combining;
+- Hashes computing:
+  - LM and NT hashes computing by password;
+  - LM and NT response computing by password and server challenge.
